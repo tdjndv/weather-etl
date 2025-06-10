@@ -16,5 +16,5 @@ More instructions will show on the start of the program
 - Follows a simple ETL pipeline
 
 ## Note
-- It gives me a better understanding of the concepts of data engineering
+- It gives me a better understanding of the concepts of data engineering (ETL)
 - It gives me more accurate (different regions even within a city) real time weather report and it's minimalistic command line based
